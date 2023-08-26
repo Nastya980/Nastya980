@@ -18,7 +18,7 @@
 <ul>
 <li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Test_Design_Techniques">Test Design Techniques</a>  </li>
 <li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Web_testing">Web testing</a>  </li>
-<li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Mobile_testing">Mobil testing</a>  </li>
+<li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Mobile_testing">Mobile testing</a>  </li>
 <li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Charles_Proxy">Charles Proxy</a>  </li>
 <li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/API_testing_via_Postman">API testing via Postman</a>  </li>
 <li>  <a href="https://github.com/podoprigora-nastya/test-artifacts/tree/main/Bash">Bash</a>  </li>
